@@ -9,7 +9,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suresh2k02&show_icons=true&locale=en" alt="suresh2k02" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suresh2k02&" alt="suresh2k02" /></p>
 
 <!---
 suresh2k02/suresh2k02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
