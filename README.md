@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 
 
-
+![suresh GitHub stats](https://github-readme-stats.vercel.app/api?username=suresh2k02&theme=prussian&show_icons=true)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suresh2k02&show_icons=true&locale=en" alt="suresh2k02" /></p>
 
